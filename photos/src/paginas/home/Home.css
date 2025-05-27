@@ -1,0 +1,11 @@
+.title {
+  color: #66eec7;
+  text-align: center;
+}
+
+.text {
+  color: gray;
+  text-align: center;
+  font-size: 2rem;
+  margin: 200px;
+}
